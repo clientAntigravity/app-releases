@@ -1,7 +1,7 @@
 {
-  "version_code": 10,
-  "version_name": "1.0.9",
+  "version_code": 11,
+  "version_name": "1.1.0",
   "download_url": "https://raw.githubusercontent.com/clientAntigravity/app-releases/main/antigravity.apk",
-  "release_notes": "• Blocco biometrico obbligatorio con chiusura automatica su annulla\n• Data di aggiornamento dinamica nella schermata impostazioni\n• Rimozione endpoint URL grezza dalla UI",
+  "release_notes": "• Telemetria reale dei token e modello attivo estratti dal web engine\n• TopBar dinamica: rimozione dei dati mock/finti e monitoraggio turni/token reali\n• Ottimizzazione prestazioni e gestione thread-safe del bridge JavaScript",
   "is_mandatory": false
 }
