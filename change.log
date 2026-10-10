@@ -1,7 +1,7 @@
 {
-  "version_code": 16,
-  "version_name": "1.1.5",
+  "version_code": 17,
+  "version_name": "1.1.6",
   "download_url": "https://raw.githubusercontent.com/clientAntigravity/app-releases/main/antigravity.apk",
-  "release_notes": "• Barra della tastiera con scorciatoie simboli nascosta (flag impostato a false)\n• Area di digitazione web espansa a tutto schermo\n• Miglioramenti di stabilità e fluidità grafica",
+  "release_notes": "• Rimossa completamente la barra dei simboli della tastiera (Accessory Keyboard Bar)\n• Massima altezza utile e visibilità garantita per l'area di prompt dell'IDE\n• Risolto qualsiasi fallback su preferenze locali preesistenti",
   "is_mandatory": false
 }
