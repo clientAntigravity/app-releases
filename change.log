@@ -1,7 +1,7 @@
 {
-  "version_code": 12,
-  "version_name": "1.1.1",
+  "version_code": 13,
+  "version_name": "1.1.2",
   "download_url": "https://raw.githubusercontent.com/clientAntigravity/app-releases/main/antigravity.apk",
-  "release_notes": "• Rimossa scansione intensiva del DOM per massima velocità di caricamento dell'IDE\n• TopBar ottimizzata e alleggerita\n• Prestazioni di rendering web native ripristinate",
+  "release_notes": "• Download OTA ultra-veloce: buffer I/O a 64KB e stream bufferizzato\n• Throttling dell'avanzamento UI per azzerare i lag di Compose\n• Massima reattività del download e dell'installazione",
   "is_mandatory": false
 }
